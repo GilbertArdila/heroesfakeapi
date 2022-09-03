@@ -2,3 +2,6 @@ this is a fakeAPI running in heroku untill november 2022, to run it localy pleas
 
 
 images are deployed on firebase
+
+
+heroku api: https://fakeapiheroes.herokuapp.com/superheroes
